@@ -1,0 +1,2 @@
+# Step 2: Integrate documents
+# Combine the loaded PDF and text documents into a single list

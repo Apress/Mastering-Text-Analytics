@@ -1,0 +1,1 @@
+{"llm": {"model": "gpt-3.5-turbo", "temperature": 0, "openai_api_key": "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"}, "prompt": {"template": "Translate this to French: {text}", "input_variables": ["text"]}}

@@ -1,0 +1,6 @@
+LangChain is a framework for developing applications powered by large language models.  
+It helps with data retrieval, memory, and document processing.  
+AI agents use LangChain to handle conversations and reasoning.
+
+
+

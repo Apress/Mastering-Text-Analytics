@@ -1,0 +1,1 @@
+{"input_variables": ["answer", "question"], "template": "Question: {question}\nAnswer: {answer}"}
